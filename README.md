@@ -22,6 +22,8 @@ npm init, npm i, npm i inquirer@8.2.4
 ## Usage
 Run this program through node index.js, fill out prompts
 
+[Demo Video](https://drive.google.com/file/d/1VtUfpjmi6Cg8cD-1jH34midJmiWF5EQ_/view?usp=sharing)
+
 ## License
 This application is covered under the MIT license.
 
