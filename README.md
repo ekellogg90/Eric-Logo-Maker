@@ -40,3 +40,4 @@ Tests to be run using jest
 ## Credits
 - People to credit: N/A
 - Tools used: Inquirer, mdn web docs for SVG
+- Code Source:  Inspiration on the SVG code for shapes was taken from [mdn](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Getting_Started)
